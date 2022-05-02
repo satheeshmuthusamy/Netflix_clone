@@ -5,12 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>NETFLIX CLONE</title>
         <link rel="stylesheet" href="styles.css"></link>
+        <script>
+            function changemode(){
+                let mybody=document.body;
+                mybody.classList.toggle('mydark');
+            }
+        </script>
     </head>
-    <body>
+    <body class="mydark">
         <!-- NAVIGATION SECTION -->
         <div class="nav"id="nav">
             <img src="images/netflix-logo.png"alt="logo"class="nav__logo">
-            <img src="images/netflix-avatar.png"alt="logo"class="nav__avatar">
+            <button onClick="changemode()"id="mode">change mode</button>
+            <img src="images/netflix-avatar.png"alt="logo"class="nav__avatar">           
         </div>
         <!-- HEADER SECTION -->
         <div class="banner">
@@ -119,7 +126,7 @@
 
     <!-- COMEDY MOVIE SECTION -->
     <div class="row">
-        <h2>COMEDDY MOVIES</h2>
+        <h2>COMEDY MOVIES</h2>
         <div class="row__posters">
             <img src="https://occ-0-3663-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcF2rro7-J-tZgzVW-83AOBd-cZRrttaLOCmIIGAGu5PbLJhi_rysqNNzJUOU1O1ibkBWRS8oe_MVspiiqP7gDByUQOz3ZkEl3ch2vCGLqalpS8XSkGwrQvjBGUv.jpg?r=dfc" alt="COMEDYMOVIE" class="row__poster">
             <img src="https://occ-0-3663-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRwTYzjWqj9CiTBLRc6Op5TPaKE_3gt6Kmz4MlJSbVbHPvfnz_m0CLzXtGGz62ERiFvGnJ3ULno5HiVoIZ-Ws1-pBD8.jpg?r=947" alt="COMEDYMOVIE" class="row__poster">
