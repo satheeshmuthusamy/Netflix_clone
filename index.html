@@ -10,6 +10,12 @@
                 let mybody=document.body;
                 mybody.classList.toggle('mydark');
             }
+            function loadCoupen(){
+                       document.getElementById("coupen").style.display="block";
+                                }
+            function closeCoupen(){
+            document.getElementById("coupen").style.display="none";
+}
         </script>
     </head>
     <body class="mydark">
@@ -18,6 +24,13 @@
             <img src="images/netflix-logo.png"alt="logo"class="nav__logo">
             <button onClick="changemode()"id="mode">change mode</button>
             <img src="images/netflix-avatar.png"alt="logo"class="nav__avatar">           
+        </div>
+        <!-- COUPEN SECTION -->
+        <div id="coupen">
+            <button onclick="closeCoupen()"id="cbutton">&times;</button>
+            <center><br><br><h1>SAVE UPTO 10% OFF!</h1><br><br></center>
+            <center><h1>Get your offer before it ends</h1><br><br><br><br></center>
+            <center><h1><button id="offer">GET NOW!</button></h1></center>
         </div>
         <!-- HEADER SECTION -->
         <div class="banner">
@@ -257,6 +270,7 @@
                                           nav.classList.remove(nav__black);
                                       }
                                     })
+                                    window.onload=loadCoupen();
                                 </script>
     </body>
 </html>

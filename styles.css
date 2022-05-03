@@ -19,6 +19,31 @@ body{
 #mode{
     margin-left:70%;
 }
+/*coupen css*/
+#coupen{
+    height: 390px;
+    background-color:orange;
+    width: 470px;
+    margin: auto;
+    /* visibility: hidden;hides the content but occupies the display */
+    /* visibility: none;hides the content and also not occupies the display; */
+    display: none;
+    z-index: 1;
+    position: absolute;
+    margin-left: 34%;
+    margin-top: 13%;
+    background-image: url('https://miro.medium.com/max/1400/1*5lyavS59mazOFnb55Z6znQ.png');
+    background-repeat: no-repeat;
+    border: 2px solid whitesmoke;
+}
+#cbutton{
+    margin-left: 91%;
+    margin-top: 1%;
+}#offer{
+    height: 53px;
+    width: 117px;
+    font-size: 17px;
+}
 /* movie css */
 .row__poster{
     width: 100%;
