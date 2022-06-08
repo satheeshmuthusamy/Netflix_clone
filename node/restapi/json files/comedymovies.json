@@ -1,0 +1,46 @@
+db.comedymovies.insert([{
+
+        "movie_name": "Dictator",
+        "movie_Id": "1",
+        "starring": "Sacha Baron Cohen,Anna Faris,Ben Kingsley",
+        "year": "2017",
+        "category": "A",
+        "Duration": "1h 58m",
+        "perview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCX"
+    },
+    {
+
+        "movie_name": "Baywatch",
+        "movie_Id": "2",
+        "starring": "Dwayne Johnson,Zac Efron,Priyanka Chopra Jonas",
+        "year": "2017",
+        "category": "A",
+        "Duration": "1h 58m",
+        "perview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdFmPrGVuZB9hMATaX17D0VvrizHOT5Ma5hKp1znnOsLc9MbzJvLQ8UzX_4LLCd8kaSeYGVSRSHXnA1LMoGRf0jodYh0o90xmXI.jpg?r=e9d"
+    },
+    {
+        "movie_name": "The hangover",
+        "movie_Id": "3",
+        "starring": "Bradley Cooper,Ed Helms,Zach Galifianakis",
+        "year": "2009",
+        "category": "18+",
+        "Duration": "1h 40m",
+        "perview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSnPUYxDFa2q8HjkHehGJT6LBfbrjPvHIV0uju2r6HrrCBE_ciPKcMkRdjjZ8f30V7_suYLXD_22U4VT758EkcbiTM5LkYujIwY.jpg?r=841"
+    }, {
+        "movie_name": "The girl next door",
+        "movie_Id": "4",
+        "starring": "Emile Hirsch,Elisha Cuthbert,Timothy Olyphant",
+        "year": "2022",
+        "category": "A 16+",
+        "Duration": "1h 49m",
+        "perview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXSUIHXkaDJdgvzrnJCBDsdgN3dYG5g4Qd_5WtMbQUQW_liN6bVPII9tQ5LdgX4rAS6yUlUTT3ao6X7pBAyEWhYlC_P-QnlzwnA.jpg?r=cd4"
+    }, {
+        "movie_name": "Delhi belly",
+        "movie_Id": "5",
+        "starring": "Imran Khan,Vir Das,Kunaal Roy Kapur",
+        "year": "2012",
+        "category": "A 13+",
+        "Duration": "2h 37m",
+        "perview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUMo0jcgvGkH3tNO4dWaH9W1a9ixKpWYy7svLNQkh5QJL8m9kMi3Vt1EIJhYRT8XlqgrnJ9ww5k_LD17CuAhdniJcPSvB3nDDbo.jpg?r=41a"
+    }
+])

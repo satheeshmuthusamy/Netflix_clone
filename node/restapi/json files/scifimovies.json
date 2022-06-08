@@ -1,0 +1,42 @@
+db.scifimovies.insert([{
+    "movie_name": "MIB",
+    "movie_Id": "1",
+    "starring": "Chris Hemsworth,Tessa Thompson,Liam Neeson",
+    "year": "2019",
+    "category": "U/A 13+",
+    "Duration": "1h 57m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTQVOeCa1dp-2SCk99U5m32UJ4GA66akM4pAoCrxVm2CPZpmUV-jjxOT5VNH-iuY159w9BmCl_1VZKo7yRtVK6SVqbg-1JtO-ss.jpg?r=9ca"
+
+}, {
+    "movie_name": "Jumanji:Welcome to the jungle",
+    "movie_Id": "2",
+    "starring": "Dwayne Johnson,Kevin Hart,Jack Black",
+    "year": "2017",
+    "category": "U/A 13+",
+    "Duration": "1h 58m",
+    "perview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQw8steRTTXwmnY3apXbmEeVXpLdoPvu_VWBszczNASRZ0UTjHHcl87LYB9J66Mb7vQx8U6r8uMeRqZ7tKf1gYG10kbFlOzEXaU.jpg?r=516"
+}, {
+    "movie_name": "Journey 2:The mysterious Islands",
+    "movie_Id": "3",
+    "starring": "Dwayne Johnson,Josh Hutcherson,Michael Caine",
+    "year": "2009",
+    "category": "U/A 13+",
+    "Duration": "1h 34m",
+    "perview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVifhBv34ByV2gTFnWgCu7f33clCm_OCodH32eI1G3WbQzy6OUaF8HiSdoLVJns71GPsnMEF0twaOnzKjtZS__NTvTKJuX4MiOA.jpg?r=348"
+}, {
+    "movie_name": "Ghost busters:Afterlife",
+    "movie_Id": "4",
+    "starring": "Carrie Coon,Finn Wolfhard,Paul Rudd",
+    "year": "2021",
+    "category": "U/A 13+",
+    "Duration": "1h 49m",
+    "perview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYSJL0pnCQPzSIgs3fvHhQCSeLkVZxgLNR8OkdbNnuq3-ftA9Iq96eBKcN1mqdX6H1lTpxRwBjurWrzCvFKyluMsQakTQ43bnTs.jpg?r=40c"
+}, {
+    "movie_name": "The incridible Hulk",
+    "movie_Id": "5",
+    "starring": "Edward Norton,Liv Tyler,Tim Roth",
+    "year": "2008",
+    "category": "U/A 13+",
+    "Duration": "1h 52m",
+    "perview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbeidr8MLzFbsuL43k6wIi_QMGf2dbnDAgwgkYC13UMCcYdE6n49InFIikSpT14t6ViKMpT01o7qPVk5EXBsPaN62xWZpKVtGco.jpg?r=736"
+}])

@@ -1,0 +1,42 @@
+db.actionmovies.insert([{
+    "movie_name": "Extraction",
+    "movie_Id": "1",
+    "starring": "Chris Hemsworth,Rudhraksh Jaiswal,Randeep Hooda",
+    "year": "2020",
+    "category": "U",
+    "Duration": "1h 57m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSJ6PnD1gOI0mdRNdATQ0POId92VHIfHzxPjkUbYGN2Pz0TSid3sMDgB0PVU-NMc7eFKejMeme5a33ff2_Qwde8jqYHd7XixaW1Kr9j2do9K_09ZbYlGAvkf-Ixz5h6OPvoS.jpg?r=1f7"
+
+}, {
+    "movie_name": "Interceptor",
+    "movie_Id": "2",
+    "starring": "Elsa Pataky,Luke Bracey,Aaron Glenane",
+    "year": "2022",
+    "category": "U/A",
+    "Duration": "1h 38m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQ2SMQDqJSXl86QUOoEo7I6OV4iHT-gxRMLxisvkjuf0z1p33QYiaTSHO-B2QmEHe0xa5XU4dZJKg5-T3Zl23T-cAyX2hZnTbnetFY1tX4B14isH_Wv0E9N-aQijNTbbO50z.jpg?r=921"
+}, {
+    "movie_name": "Spiderman far from home",
+    "movie_Id": "3",
+    "starring": "Tom Holland,Zendaya,Samuel L. Jackson",
+    "year": "2022",
+    "category": "U/A 13+",
+    "Duration": "1h 40m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRF1ijm7P2-WW_EdZ31bZThluo2w0IVG5FihPETdPR2KV0u0N-dAUjvY3Dtxxe5474k0pqRqTc9_KPMqKsq0u9gfAJCMC-02ReQ.jpg?r=0ed"
+}, {
+    "movie_name": "Venom",
+    "movie_Id": "4",
+    "starring": "Tom Hardy,Woody Harrelson,Michelle Williams",
+    "year": "2022",
+    "category": "U/A 16+",
+    "Duration": "1h 37m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa7afOATWMKsMzzDLKkFXoynGPB-yc83rrbnx-XIfJuz1xBV6Xx-t4QGHg4yHoi_qwoLto475F4NzFLxx-IUhur2xbmn-gXDH7s.jpg?r=dbf"
+}, {
+    "movie_name": "Minnal Murali",
+    "movie_Id": "5",
+    "starring": "Tovino Thomas,Guru Somasundaram,Aju VargheseT",
+    "year": "2012",
+    "category": "U/A 13+",
+    "Duration": "2h 37m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVKJhYD6bmu-VR2lD2sdnIFYJFE_jIf6Mu5K3UCdd6HCRo_f2sg0H9vL5Rnv2Cha-3iCTJ02nnprvmgsl9xB0hozpmRnj7GJ436eB8SPQsTUxgIRrRe0CaoUGfBctxTrpZh3.jpg?r=311"
+}])

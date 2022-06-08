@@ -1,0 +1,41 @@
+db.netflixoriginals.insert([{
+    "movie_name": "Stranger Things",
+    "movie_Id": "1",
+    "starring": "Winona Ryder,David Harbour,Millie Bobby Brown",
+    "year": "2020",
+    "category": "U/A",
+    "Seasons": "6 seasons",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcFEn_zKgJRcPRjzj-Ju7Hy4uEaCSJ2moMilzUCM-QD5mQ2rUv0Llxd0urCx7zlYn8Qj8yXmtXilguADxDPzeKYEll6JAwHRQD0t2qV6IRyeaKUqC6rsko7jvMRecLY2F88PIRzjyfWvVy-9YMy-vpG13IXw1t5zd39FqA.jpg?r=f09"
+}, {
+    "movie_name": "Money Heist",
+    "movie_Id": "2",
+    "starring": "Úrsula Corberó,Álvaro Morte,Itziar Ituño",
+    "year": "2018",
+    "category": "U/A",
+    "Saesons": "5",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZmakScbYf0VnUuAMcNKX2fvWcMhPc05rGSPB2K40iTaPuopC1cHqeBNV2y3lOmPrCj928frrP-Xn5SG8aOaLF04eYQQ6Vaag8bQGK8u56F7qEBFPXRJB6RizZMyN0zX5EjC.jpg?r=695"
+}, {
+    "movie_name": "All of us are Dead",
+    "movie_Id": "3",
+    "starring": "Park Ji-hu,Yoon Chan-young,Cho Yi-hyun",
+    "year": "2022",
+    "category": "A 18+",
+    "Saesons": "1",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcVEUrd1X_ZJYVSv9vQgyGNzIYhvGIo7ffOUgZo3Xbv4LUg6P5XMqaOoImnE0OtwcqcMPJzWk6ZUqb8NN_WGVmCEbpwD9DGKDIimli5ZUHHnt2z9ZluBscppMfO0OqQqYbZE.jpg?r=891"
+}, {
+    "movie_name": "Squid game",
+    "movie_Id": "4",
+    "starring": "Lee Jung-jae,Park Hae-soo,Wi Ha-jun",
+    "year": "2022",
+    "category": "A 18+",
+    "Saesons": "1",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABca2DuILY0smongIAf2baOcG9C41lPQeCIrlcoNTwd45m1amb8F988PPo2vsm8ljEQ8WMG5gKRiiWLnhHOeCS2foG3uSyHFVPh0H-Mi6a-PqDZKx4FrSlVNJT09xqcj1QETQ.jpg?r=5e6"
+}, {
+    "movie_name": "Lucifer",
+    "movie_Id": "5",
+    "starring": "Tom Ellis,Lauren German,Kevin Alejandro",
+    "year": "2016",
+    "category": "U/A 16+",
+    "Saesons": "6",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZTf4aA8SWf1KVmPxArVC-JHtw6AbTx3JvDCIvnfxHVxJ_ixEwEugIa5hievTKpUPZfFX4yL8TyASn_h2xfsInFukoEJypO_x2pt806mz3UHC4y-YDLa6dtK_W0FQmNZ6UlZ.jpg?r=31e"
+}])

@@ -1,0 +1,42 @@
+db.thrillermovies.insert([{
+    "movie_name": "Now u see me",
+    "movie_Id": "1",
+    "starring": "Jesse Eisenberg,Mark Ruffalo,Woody Harrelson",
+    "year": "2013",
+    "category": "U?A 13",
+    "Duration": "1h 57m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRSvNpgyAUp5-fibfYSGvfGopPVGxGCy8SgfVNl6u0qQCsIOVXnnr-BdDZwjkzHtajQn6xddHNJpSsuykpQWcGyIj84BD2UlpvQ.jpg?r=cce"
+
+}, {
+    "movie_name": "Colateral",
+    "movie_Id": "2",
+    "starring": "Tom Cruise,Jamie Foxx,Jada Pinkett Smith",
+    "year": "2004",
+    "category": "U/A",
+    "Duration": "2h 00m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSxwwKsmT81gyV2ZO8DyrmfPgUXlnaIi9-TKElGgg8MO8amkd8mI2mC9aBXCAR44hg8xvdlMOA8S1N-95dSybcnrzqErYWOgxqU.jpg?r=831"
+}, {
+    "movie_name": "The davinci code",
+    "movie_Id": "3",
+    "starring": "Tom Hanks,Audrey Tautou,Ian McKellen",
+    "year": "2006",
+    "category": "U/A 16+",
+    "Duration": "2h 29m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABYiC_Ajh_U9vbXoCMfyXTzse4amJJBSDpybK_B0sJznsr9fGCp8TZqh4Jw7m-X-oKHQrpSaBXk938st-1H7-aYBKvB6mPBhpdEY.jpg?r=7f9"
+}, {
+    "movie_name": "Ocean's 8",
+    "movie_Id": "4",
+    "starring": "Sandra Bullock,Cate Blanchett,Anne Hathaway",
+    "year": "2018",
+    "category": "U/A 16+",
+    "Duration": "1h 50m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABcfGLrkBicHWED1mIJ41IOXJmRC-Rv0mDHvTYEyBH32DArRju8dBgia__Unrnj22pIwnj-wAINutYY0C8MphwSKDmWBT_fRaVoY.jpg?r=b12"
+}, {
+    "movie_name": "Gone girl",
+    "movie_Id": "5",
+    "starring": "Ben Affleck,Rosamund Pike,Neil Patrick Harris",
+    "year": "2014",
+    "category": "A",
+    "Duration": "2h 37m",
+    "preview_img": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfRz-9ISRqP-p8oOrTZXD1NVWNPedO8vjmCggojqJnhiNqvP9FRYeCxarp7oh2f8xRYCdGZLBRIf5KE2ImvRmg0m0MRja3iElco.jpg?r=d37"
+}])
