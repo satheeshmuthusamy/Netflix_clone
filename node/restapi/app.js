@@ -20,12 +20,12 @@ app.get('/', (req, res) => {
     res.send('Express Server default')
 })
 
-// app.get('/items/:collections', (req, res) => {
-//     db.collection(req.params.collections).find().toArray((err, result) => {
-//         if (err) throw err;
-//         res.send(result)
-//     })
-// })
+app.get('/items/:collections', (req, res) => {
+    db.collection(req.params.collections).find().toArray((err, result) => {
+        if (err) throw err;
+        res.send(result)
+    })
+})
 
 app.get('/actionmovies', (req, res) => {
     db.collection('actionmovies').find().toArray((err, result) => {
@@ -35,7 +35,7 @@ app.get('/actionmovies', (req, res) => {
 })
 
 app.get('/comedymovies', (req, res) => {
-    db.collection('comedymovie').find().toArray((err, result) => {
+    db.collection('comedymovies').find().toArray((err, result) => {
         if (err) throw err;
         res.send(result)
     })
